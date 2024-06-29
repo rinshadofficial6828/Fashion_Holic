@@ -1,0 +1,37 @@
+# Flutter/Dart
+.dart_tool/
+.pubspec.lock
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build/Output directories
+build/
+dist/
+
+# Temporary Files
+*.log
+*.tmp
+
+# Environment-specific Files
+.env
+
+# Generated Files
+generated/
+
+# System Files
+.DS_Store
+.idea/
+
+# Node.js
+node_modules/
+
+# Compiled Files
+*.class
+*.war
+*.jar

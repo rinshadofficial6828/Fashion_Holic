@@ -1,0 +1,159 @@
+[
+    {
+      "name": "Product 1",
+      "price": 29.99,
+      "offerPrice": 24.99,
+      "image": "assets/images/c1.png"
+    },
+    {
+      "name": "Product 2",
+      "price": 39.99,
+      "offerPrice": 34.99,
+      "image": "assets/images/c2.png"
+    },
+    {
+      "name": "Product 3",
+      "price": 49.99,
+      "offerPrice": 44.99,
+      "image": "assets/images/c3.png"
+    },
+    {
+      "name": "Product 4",
+      "price": 19.99,
+      "offerPrice": 15.99,
+      "image": "assets/images/c4.png"
+    },
+    {
+      "name": "Product 5",
+      "price": 59.99,
+      "offerPrice": 54.99,
+      "image": "assets/images/c5.png"
+    },
+    {
+      "name": "Product 6",
+      "price": 69.99,
+      "offerPrice": 64.99,
+      "image": "assets/images/c6.png"
+    },
+    {
+      "name": "Product 7",
+      "price": 25.99,
+      "offerPrice": 20.99,
+      "image": "assets/images/c7.png"
+    },
+    {
+      "name": "Product 8",
+      "price": 34.99,
+      "offerPrice": 29.99,
+      "image": "assets/images/c8.png"
+    },
+    {
+      "name": "Product 9",
+      "price": 45.99,
+      "offerPrice": 40.99,
+      "image": "assets/images/c1.png"
+    },
+    {
+      "name": "Product 10",
+      "price": 14.99,
+      "offerPrice": 10.99,
+      "image": "assets/images/c2.png"
+    },
+    {
+      "name": "Product 11",
+      "price": 55.99,
+      "offerPrice": 50.99,
+      "image": "assets/images/c3.png"
+    },
+    {
+      "name": "Product 12",
+      "price": 18.99,
+      "offerPrice": 14.99,
+      "image": "assets/images/c4.png"
+    },
+    {
+      "name": "Product 13",
+      "price": 30.99,
+      "offerPrice": 25.99,
+      "image": "assets/images/c5.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c6.png"
+    },
+    {
+      "name": "Product 15",
+      "price": 50.99,
+      "offerPrice": 45.99,
+      "image": "assets/images/c7.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c8.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c1.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c1.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c1.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c3.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c4.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c5.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c6.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c6.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c6.png"
+    },
+    {
+      "name": "Product 14",
+      "price": 40.99,
+      "offerPrice": 35.99,
+      "image": "assets/images/c6.png"
+    }
+  ]
+  

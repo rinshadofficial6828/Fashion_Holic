@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Product 2",
+      "price": 39.99,
+      "offerPrice": 34.99,
+      "image": "assets/images/c2.png"
+    },
+    {
+      "name": "Product 3",
+      "price": 49.99,
+      "offerPrice": 44.99,
+      "image": "assets/images/c3.png"
+    },
+    {
+      "name": "Product 4",
+      "price": 19.99,
+      "offerPrice": 15.99,
+      "image": "assets/images/c4.png"
+    }
+]
